@@ -13,5 +13,19 @@
 
 >![Slide 2](./NLH2.jpg "Slide 2")
 
+### Model Representation
+1. A neuron is a computational unit that recieves some input and gives an output.
+2. We add a bias unit i.e. x0 which is essentially equal to 1
+3. The computation that the neuron performs is called a activation function.
+4. Theta is called weights or parmaeters of the model
+5. Neural Network means a group of neurons string together.
+
+6. There is a concept of hidden layer, input layer and output layers
+
+7. Whenever we are mapping, the number of theta parmaeters/weights are of the dimension S(J+1) X S(J)+1 where S(J+1) are the number of neurons in the J+1 layer and S(J) are the number of neurons in J layer.
+
+8. In the pic below answer is 4 X 3
+
+
 
 
