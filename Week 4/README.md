@@ -19,13 +19,13 @@
 3. The computation that the neuron performs is called a activation function.
 4. Theta is called weights or parmaeters of the model
 5. Neural Network means a group of neurons string together.
-
+>![MR1](./MR1.jpg "MR1")
 6. There is a concept of hidden layer, input layer and output layers
-
+>![MR2](./MR2.jpg "MR2")
 7. Whenever we are mapping, the number of theta parmaeters/weights are of the dimension S(J+1) X S(J)+1 where S(J+1) are the number of neurons in the J+1 layer and S(J) are the number of neurons in J layer.
-
+>![MR3](./MR3.jpg "MR3")
 8. In the pic below answer is 4 X 3
-
+>![MR4](./MR4.jpg "MR4")
 
 
 
